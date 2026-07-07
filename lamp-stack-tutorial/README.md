@@ -2,7 +2,7 @@
 
 A step-by-step guide to installing and configuring a LAMP stack (Linux, Apache, MySQL, PHP) on an Ubuntu EC2 instance, including database connectivity verification.
 
-📄 [Full tutorial PDF](./Installation_and_Configuration_of_LAMP_Stack.pdf)
+📄 [Full tutorial PDF](./Installation%20and%20Configuration%20of%20LAMP%20Stack.pdf)
 
 ---
 
