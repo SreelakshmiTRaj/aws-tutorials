@@ -2,7 +2,7 @@
 
 A step-by-step guide to connecting two VPCs across different AWS regions using VPC Peering, with secure internet access for private resources via a NAT Gateway, and a LAMP stack server deployed in the public subnet.
 
-📄 [Full tutorial PDF](./AWS_Multi-Region_VPC_Peering_and_Network_Setup__Sreelakshmi_T_Raj_.pdf)
+📄 [Full tutorial PDF](./AWS%20Multi-Region%20VPC%20Peering%20and%20Network%20Setup.pdf)
 
 ---
 
