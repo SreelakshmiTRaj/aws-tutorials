@@ -10,6 +10,7 @@ A collection of hands-on AWS tutorials, documenting what I'm learning as I go â€
 | 2 | [Multi-Region VPC Peering and Network Setup](./vpc-peering-tutorial) | VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, VPC Peering, Bastion Host |
 | 3 | [Installation and Configuration of LAMP Stack on Ubuntu](./lamp-stack-tutorial) | EC2, Apache, MySQL, PHP |
 | 4 | [Implementing Dynamic Auto Scaling Using Target Tracking Policy](./target-tracking-tutorial) | EC2, Auto Scaling Group, Target Tracking Policy, CloudWatch |
+| 5 | [Docker Multi-Stage Build for React Application(./docker-tutorials/multi-stage-build) | Docker, React.js, Node.js, Nginx, Dockerfile, Multi-Stage Builds, Docker Image Optimization, Container Deployment |
 
 Each folder contains a step-by-step README with screenshots, plus the original PDF write-up.
 
