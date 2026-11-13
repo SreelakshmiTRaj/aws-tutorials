@@ -2,7 +2,7 @@
 
 A step-by-step guide to containerizing a React application using a Docker multi-stage build, built with Node.js and served with Nginx on an Ubuntu EC2 instance.
 
-📄 [Full tutorial PDF](./doc/Docker_Multi-Stage_Build_for_React_Application.pdf)
+📄 [Full tutorial PDF](./doc/Docker%20Multi-Stage%20Build%20for%20React%20Application.pdf)
 
 ---
 
